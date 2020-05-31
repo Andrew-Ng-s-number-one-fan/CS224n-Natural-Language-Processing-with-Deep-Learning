@@ -7,9 +7,9 @@
 |Gensim Word Vectors Example|[[Code](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/materials/Gensim.zip)] [[Preview](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/materials/Gensim%20word%20vector%20visualization.html)]
 
 Suggested Readings:
-- Word2Vec Tutorial: The Skip-Gram Model - [[Link](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)] 
-- Efficient Estimation of Word Representations in Vector Space (Original word2vec Paper) - [[Link](https://arxiv.org/pdf/1301.3781.pdf)]
-- Distributed Representations of Words and Phrases and their Compositionality (Negative Sampling Paper) - [[Link](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)]
+- [Word2Vec Tutorial: The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+- [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf) (Original word2vec Paper)
+- [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) (Negative Sampling Paper)
 
 ### Lecture 2:
 - Word Vectors and Word Senses - [[Video](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2)] [[Slides](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture02-wordvecs2.pdf)] [[Notes](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/readings/cs224n-2019-notes02-wordvecs2.pdf)]
