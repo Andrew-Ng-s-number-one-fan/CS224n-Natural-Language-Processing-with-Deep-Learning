@@ -1,10 +1,10 @@
 # [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
 
 ### Lecture 1:
-- Introduction and Word Vectors | [[Video](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1)] [[Slides](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture01-wordvecs1.pdf)] [[Notes](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/readings/cs224n-2019-notes01-wordvecs1.pdf)]
+- Introduction and Word Vectors - [[Video](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1)] [[Slides](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture01-wordvecs1.pdf)] [[Notes](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/readings/cs224n-2019-notes01-wordvecs1.pdf)]
 - Gensim Word Vectors Example - [[Code](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/materials/Gensim.zip)] [[Preview](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/materials/Gensim%20word%20vector%20visualization.html)]
 - Word2Vec Tutorial: The Skip-Gram Model - [[Link](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)] 
-- Efficient Estimation of Word Representations in Vector Space (Original word2vec Paper)|[[Link](https://arxiv.org/pdf/1301.3781.pdf)]
+- Efficient Estimation of Word Representations in Vector Space (Original word2vec Paper) [[Link](https://arxiv.org/pdf/1301.3781.pdf)]
 
 |#|Description|Content|Suggested Readings|
 |:---:|:---:|:---:|:---:|
