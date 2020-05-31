@@ -1,9 +1,10 @@
 # [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
 
 ### Lecture 1:
-|Description|Content|Suggested Readings|
-|:---:|:---:|:---:|
+|Description|Content|
+|:---:|:---:|
 |Introduction and Word Vectors|[[Video](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1)] [[Slides]()] [[Notes]()]|
+|Gensim Word Vectors Example|||
 
 |#|Description|Content|Suggested Readings|
 |:---:|:---:|:---:|:---:|
