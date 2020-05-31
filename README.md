@@ -8,6 +8,7 @@
 |Introduction and Word Vectors|[[Video](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1)] [[Slides]()] [[Notes]()]|
 
 |#|Description|Content|Suggested Readings|
+|:---:|:---:|:---:|:---:|
 |Lecture 2|[Word Vectors and Word Senses](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2)|
 |Lecture 3|[Neural Networks](https://www.youtube.com/watch?v=8CWyBNX6eDo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=3)|
 |Lecture 4|[Backpropagation](https://www.youtube.com/watch?v=yLYHDSv-288&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=4)|
