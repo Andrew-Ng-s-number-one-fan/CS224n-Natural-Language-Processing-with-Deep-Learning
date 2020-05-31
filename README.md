@@ -12,13 +12,22 @@ Suggested Readings:
 - [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) (Negative Sampling Paper)
 
 ### Lecture 2:
-- Word Vectors and Word Senses - [[Video](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2)] [[Slides](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture02-wordvecs2.pdf)] [[Notes](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/readings/cs224n-2019-notes02-wordvecs2.pdf)]
+|Description|Content|
+|:---:|:---:|
+|Word Vectors and Word Senses|[[Video](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2)] [[Slides](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture02-wordvecs2.pdf)] [[Notes](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/readings/cs224n-2019-notes02-wordvecs2.pdf)]|
 
+Suggested Readings:
+- [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) (Original GloVe Paper)
+- [Improving Distributional Similarity with Lessons Learned from Word Embeddings](http://www.aclweb.org/anthology/Q15-1016)
+- [Evaluation methods for unsupervised word embeddings](http://www.aclweb.org/anthology/D15-1036)
 
+Additional Readings:
+- [A Latent Variable Model Approach to PMI-based Word Embeddings](http://aclweb.org/anthology/Q16-1028)
+- [Linear Algebraic Structure of Word Senses, with Applications to Polysemy](https://transacl.org/ojs/index.php/tacl/article/viewFile/1346/320)
+- [On the Dimensionality of Word Embedding](https://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding.pdf)
 
 |#|Description|Content|Suggested Readings|
 |:---:|:---:|:---:|:---:|
-|Lecture 2||
 |Lecture 3|[Neural Networks](https://www.youtube.com/watch?v=8CWyBNX6eDo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=3)|
 |Lecture 4|[Backpropagation](https://www.youtube.com/watch?v=yLYHDSv-288&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=4)|
 |Lecture 5|[Dependency Parsing](https://www.youtube.com/watch?v=nC9_RfjYwqA&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=5)|
