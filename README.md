@@ -5,6 +5,7 @@
 |:---:|:---:|
 |Introduction and Word Vectors|[[Video](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1)] [[Slides]()] [[Notes]()]|
 |Gensim Word Vectors Example|||
+|Word2Vec Tutorial - The Skip-Gram Model|[[Link()]]|
 
 |#|Description|Content|Suggested Readings|
 |:---:|:---:|:---:|:---:|
