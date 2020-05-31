@@ -7,9 +7,14 @@
 - Efficient Estimation of Word Representations in Vector Space (Original word2vec Paper) - [[Link](https://arxiv.org/pdf/1301.3781.pdf)]
 - Distributed Representations of Words and Phrases and their Compositionality (Negative Sampling Paper) - [[Link](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)]
 
+### Lecture 2:
+- Word Vectors and Word Senses - [[Video(https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2)] [[Slides](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture02-wordvecs2.pdf)] [[Notes](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/readings/cs224n-2019-notes02-wordvecs2.pdf)]
+
+
+
 |#|Description|Content|Suggested Readings|
 |:---:|:---:|:---:|:---:|
-|Lecture 2|[Word Vectors and Word Senses](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2)|
+|Lecture 2||
 |Lecture 3|[Neural Networks](https://www.youtube.com/watch?v=8CWyBNX6eDo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=3)|
 |Lecture 4|[Backpropagation](https://www.youtube.com/watch?v=yLYHDSv-288&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=4)|
 |Lecture 5|[Dependency Parsing](https://www.youtube.com/watch?v=nC9_RfjYwqA&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=5)|
